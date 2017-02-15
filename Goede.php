@@ -20,7 +20,7 @@ if ($time >= "24" && $time <"6") {
 				$message = "<p>Goedeavond</p>";
 				$image	= "backgrounds/evening.png";
 			}
-	echo date("<p>h:i</p>");
+	echo date("<p>H:i</p>");
 ?>
 
 <!DOCTYPE html>
